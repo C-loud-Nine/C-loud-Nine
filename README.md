@@ -1,5 +1,5 @@
 ### Hi there 👋
-![sev](https://github.com/C-loud-Nine/C-loud-Nine/assets/104518333/b8ba9b6b-6d3a-470e-8185-35513cafad6a)
+![gif2](https://github.com/C-loud-Nine/C-loud-Nine/assets/104518333/cf01fcfa-8ad7-4662-8498-c368265c81de)
 <!--
 **C-loud-Nine/C-loud-Nine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
