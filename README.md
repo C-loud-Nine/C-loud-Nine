@@ -5,6 +5,9 @@
 
 
 🖥⌨ Stats
+<!--
+![](https://komarev.com/ghpvc/?username=C-loud-Nine)
+-->
 
 <a href="https://github.com/C-loud-Nine"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=C-loud-Nine&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="C-loud-Nine's github stats" /></a>
 <br />
